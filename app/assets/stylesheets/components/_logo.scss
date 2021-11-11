@@ -1,0 +1,11 @@
+.img-width{
+  width: 100px;
+}
+
+.logo{
+  background-image: asset-url("logo.png");
+  // fetching the image from assests/images folder
+  background-size: cover;
+  width: 100px;
+  height: 200px;
+}
